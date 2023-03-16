@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "lcc"]
+	path = lcc
+	url = https://github.com/prof-thiagooliveira/lcc
+	shallow = true
+	registered = true
