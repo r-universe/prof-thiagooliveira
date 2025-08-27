@@ -5,3 +5,6 @@
 [submodule "lcc"]
 	path = lcc
 	url = https://github.com/prof-thiagooliveira/lcc
+[submodule "matrixCorr"]
+	path = matrixCorr
+	url = https://github.com/prof-thiagooliveira/matrixcorr
